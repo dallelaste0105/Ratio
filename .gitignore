@@ -43,3 +43,8 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+
+#git add .
+#git commit -m "Mensagem explicando o que mudou"
+#git push
