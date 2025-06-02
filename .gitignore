@@ -48,3 +48,11 @@ app.*.map.json
 #git add .
 #git commit -m "Mensagem explicando o que mudou"
 #git push
+
+# feat => Quando você adiciona uma nova funcionalidade
+# fix	=> Quando você corrige um bug
+# docs => Alterações na documentação
+# style => Mudanças de formatação, espaços, ponto e vírgula...
+# refactor => Refatoração de código (sem mudar funcionalidade nem corrigir bug)
+# test => Adição ou alteração de testes
+# chore => Mudanças que não afetam o código diretamente (ex: dependências, configs)
